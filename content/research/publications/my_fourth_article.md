@@ -1,0 +1,18 @@
+---
+date: '2025-02-01T01:44:52-05:00'
+draft: true
+weight: 5
+title: 'Case report: Possible role of low-dose PEM for avoiding unneeded procedures associated with false-positive or equivocal breast MRI results'
+---
+
+*The following case report outlines a subset of my academic reasearch and was published in Frontiers in Oncology in July of 2024.*
+
+[Click here for the full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC11291220/)
+
+*Rapley M, Freitas V, Weinberg IN, Baldassi B, Poladyan H, Waterston M, Ghai S, Taeb S, Bubon O, Mulligan AM, Reznik A. Case report: Possible role of low-dose PEM for avoiding unneeded procedures associated with false-positive or equivocal breast MRI results. Front Oncol. 2024 Jul 18;14:1405404. doi: 10.3389/fonc.2024.1405404. Erratum in: Front Oncol. 2024 Sep 25;14:1477862. doi: 10.3389/fonc.2024.1477862. PMID: 39091907; PMCID: PMC11291220.*
+
+## Abstract
+
+Contrast-enhanced breast magnetic resonance imaging (MRI) is currently recommended as a screening tool for high-risk women and has been advocated for women with radiologically dense breast tissue. While breast MRI is acknowledged for its high sensitivity (with an exception for lower-grade ductal carcinoma in situ (DCIS) where emerging techniques like diffusion-weighted imaging offer improvement), its limitations include sensitivity to hormonal changes and a relatively high false-positive rate, potentially leading to overdiagnosis, increased imaging uncertainty, and unnecessary biopsies. These factors can exacerbate patient anxiety and impose additional costs. Molecular imaging with breast-targeted Positron Emission Tomography (PET) has shown the capability to detect malignancy independent of breast density and hormonal changes. Furthermore, breast-targeted PET has shown higher specificity when compared with MRI. However, traditional PET technology is associated with high radiation dose, which can limit its widespread use particularly in repeated studies or for undiagnosed patients. In this case report, we present a clinical application of low-dose breast imaging utilizing a breast-targeted PET camera (Radialis PET imager, Radialis Inc). The case involves a 33-year-old female patient who had multiple enhanced lesions detected on breast MRI after surgical removal of a malignant phyllodes tumor from the right breast. A benign core biopsy was obtained from the largest lesion seen in the left breast. One month after the MRI, 18F-fluorodeoxyglucose (18F-FDG) PET imaging session was performed using the Radialis PET Imager. Although the Radialis PET Imager has proven high count sensitivity and the capability to detect breast lesions with low metabolic activity (at a dose similar to mammography), no areas of increased 18F-FDG uptake were visualized in this particular case. The patient underwent a right-sided nipple-sparing mastectomy and left-sided lumpectomy, with bilateral reconstruction. The excised left breast tissue was completely benign, as suggested by both core biopsy and the PET results. The case presented highlights a promising clinical application of low-dose breast-targeted PET imaging to mitigate the uncertainty associated with MRI while keeping radiation doses within the safe range typically used in X-ray mammography.
+
+Keywords: breast MRI; breast cancer overdiagnosis with MRI; high specificity breast imaging; low-dose positron emission mammography; organ-targeted positron emission tomography.

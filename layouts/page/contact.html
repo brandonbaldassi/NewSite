@@ -1,0 +1,64 @@
+
+{{ define "main" }}
+  <div class="contact-container">
+    <h1>{{ .Title }}</h1>
+    <p>{{ .Content }}</p>
+    
+
+    <div class="contact-form">
+        <form
+        action="https://formspree.io/f/mbldqpgp"
+        class="fs-form"
+        target="_top"
+        method="POST"
+      >
+        <div class="fs-field">
+          <label class="fs-label" for="email">Email</label>
+          <input class="fs-input" id="email" name="email" required />
+        </div>
+        <div class="fs-field">
+          <label class="fs-label" for="message">Message</label>
+          <textarea class="fs-textarea" id="message" name="message"></textarea>
+        </div>
+        <div class="fs-button-group">
+          <button class="fs-button" type="submit">Submit</button>
+        </div>
+        <style>
+          .fs-field {
+            margin-bottom: 20px; /* Adds vertical space between fields */
+          }
+        
+          .fs-input, .fs-textarea {
+            background-color: white; /* Set background to white */
+            border: 1px solid #ccc;  /* Optional: add a border */
+            padding: 8px;             /* Optional: add some padding inside the text box */
+            color: #333;             /* Optional: set text color */
+            width: 50%;
+          }
+        
+          .fs-textarea {
+            width: 100%;        /* Make the message box take full width of its parent container */
+            max-width: 600px;   /* Optional: Set a max width for better control */
+            height: 150px;      /* Optional: Set height for the message box */
+          }
+        
+          .fs-button {
+            background-color: #007bff; /* Optional: set button background */
+            color: white;               /* Optional: set button text color */
+            padding: 10px 20px;         /* Optional: add padding to button */
+            border: none;               /* Optional: remove button border */
+            cursor: pointer;           /* Optional: set pointer cursor on hover */
+          }
+        
+          .fs-button:hover {
+            background-color: #0056b3; /* Optional: change button color on hover */
+          }
+        </style>
+        
+        
+        
+      </form>
+    </div>
+  </div>
+{{ end }}
+

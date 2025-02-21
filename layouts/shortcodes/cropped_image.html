@@ -1,0 +1,8 @@
+{{ $imagePath := .Get "src" }}
+{{ $image := .Site.GetPage "file" $imagePath }}
+{{ if $image }}
+  {{ $cropped := $image.Resize "500x400" }} <!-- Adjust size as needed -->
+  <img src="{{ $cropped.Permalink }}" alt="{{ .Get "alt" }}">
+{{ else }}
+  <img src="{{ $imagePath }}" alt="{{ .Get "alt" }}">
+{{ end }}
