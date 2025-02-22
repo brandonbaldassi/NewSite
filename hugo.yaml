@@ -1,6 +1,6 @@
-baseURL: https://www.brandonbaldassi.com/
+baseURL: ["https://www.brandonbaldassi.com/"]
 languageCode: en-us
-title: brandon baldassi  
+title: ["brandon baldassi"]  
 theme: ["PaperMod"]
 copyright: Copyright © Brandon Baldassi
 enableInlineShortcodes: true
