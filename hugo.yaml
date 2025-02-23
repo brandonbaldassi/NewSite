@@ -1,4 +1,8 @@
-baseURL: https://brandonbaldassi.com/
+baseURL: 'https://brandonbaldassi.com/'
+
+development:
+  baseURL: 'http://localhost:1313/'
+
 languageCode: en-us
 title: brandon baldassi  
 theme: ["PaperMod"]
