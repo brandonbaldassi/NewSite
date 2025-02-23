@@ -28,7 +28,7 @@ params:
   description: "This is my place to share personal passions and projects"
   author: "Brandon Baldassi"
   customCSS: 
-    - "css/custom.css"
+    - "/css/custom.css"
   defaultTheme: auto
   ShowShareButtons: false
   ShareButtons: "linkedin"
@@ -122,5 +122,9 @@ markup:
     goldmark:
       renderer:
         unsafe: true
+
+# Add these debug settings temporarily
+enableMissingTranslationPlaceholders: true
+debug: true
 
 

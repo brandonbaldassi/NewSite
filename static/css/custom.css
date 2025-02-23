@@ -481,3 +481,25 @@ fieldset {
 .fs-textarea::placeholder {
   color: var(--color-text-muted);
 }
+
+.container {
+  border: 2px solid red;
+}
+
+.profile-section {
+  text-align: center;
+  margin: 50px 0 30px;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  margin: 0 auto 20px;
+  background-color: rgba(0, 0, 0, 0.2);
+  padding: 8px 10px;
+  border-radius: 8px;
+  max-width: 200px;
+  width: 90%;
+}
