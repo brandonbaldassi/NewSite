@@ -1,11 +1,11 @@
 ---
-date: '2025-02-01T01:38:50-05:00'
-draft: true
+date: '2024-02-09T01:38:50-05:00'
+draft: False
 title: 'Breast Cancer Detection Using a Low-Dose Positron Emission Digital Mammography System'
 weight: 4
 ---
 
-*The following article outlines a subset of my academic reasearch and was published in Radiology: Imaging Cancer in March of 2024.*
+*The following article outlines a subset of my academic reasearch and was published in Radiology: Imaging Cancer in February of 2024.*
 
 [Click here for the full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC10988332/)
 

@@ -42,13 +42,19 @@ August 1, 2, 3 - **Dragfest**, <em>Terrace Bay, ON, Canada</em>
 
 Whether you’re a fellow racer, an enthusiast, or just curious about the world of motorsports, I’d love to connect. Follow along as I continue to push the limits and explore the technical challenges that make racing such a thrilling pursuit.
 
+<div style="text-align: center; margin-top: 10px;">
+  <a href="/contact">
+      <button style="padding: 10px 20px; background-color:rgb(0, 0, 0); color: white; border: none; border-radius: 5px; font-size: 25px; cursor: pointer;">Contact me</button>
+  </a>
+</div>
+<!-- 
 <div style="text-align: center; margin-top: 20px;">
     <a href="https://www.youtube.com/@brandonbaldassi6381" target="_blank">
         <button style="padding: 10px 20px; background-color: #ff0000; color: white; border: none; border-radius: 5px; font-size: 20px; cursor: pointer;">Visit My YouTube Channel</button>
     </a>
-</div>
+</div> -->
 
- <a href="/contact"><strong><em>Contact me here</em></strong></a>
+ 
 
 ---
 
@@ -56,8 +62,8 @@ Whether you’re a fellow racer, an enthusiast, or just curious about the world 
 
 If you'd like to explore more on motorsports, check out the other sections of my website:
 
-- [Motorsports](/motorsports/")
-- [Development](content/motorsports/dev/")
+- [Motorsports](/motorsports/)
+- [Development](content/motorsports/dev/)
 
 ---
 

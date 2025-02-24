@@ -1,8 +1,8 @@
 ---
-date: '2025-02-01T01:47:32-05:00'
-draft: true
+date: '2024-12-27T01:47:32-05:00'
+draft: False
 title: 'Multi-angle acquisition and 3D composite reconstruction for organ-targeted PET using planar detectors'
-weight: 6
+weight: 4
 ---
 
 *The following case report outlines a subset of my academic reasearch and was published in Medical Physics in December of 2024.*

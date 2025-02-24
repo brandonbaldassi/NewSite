@@ -1,8 +1,9 @@
 ---
-date: '2025-01-31T18:02:05-05:00'
-draft: true
+date: '2018-08-01T18:02:05-05:00'
+draft: False
 title: 'Characterization of cadmium zinc telluride (CZT) as a material for solid-state detectors in advanced Computed Tomography (CT) applications.'
 ---
+*The following page outlines a subset of my academic reasearch performed during the summer of 2016 and published in the Journal of Materials Science: Materials in Electronics in 2018*
 
 ## Abstract
 

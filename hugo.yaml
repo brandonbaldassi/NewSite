@@ -95,11 +95,11 @@ menu:
       parent: motorsports
       identifier: dev
 
-    - name: Track Testing
-      url: /motorsports/track-testing/
+    - name: Racing
+      url: /motorsports/racing/
       weight: 4
       parent: motorsports
-      identifier: track-testing
+      identifier: racing
 
     - name: Athletics
       url: /athletics/

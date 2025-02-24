@@ -1,6 +1,6 @@
 ---
-date: '2025-01-31T18:01:35-05:00'
-draft: true
+date: '2024-03-25T18:01:35-05:00'
+draft: False
 title: 'Image quality evaluation for a clinical organ-targeted PET camera'
 weight: 2
 ---
