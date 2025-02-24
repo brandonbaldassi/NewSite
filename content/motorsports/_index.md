@@ -25,7 +25,7 @@ Motorsports is one of my greatest passions. This page is an index for sharing my
 
 ## My Mission 
 
-The world desperately needs passionate, curious people who are excited to innovate and create change. By connecting the energy, excitement, and innovation in motorsports with STEM, I hope to do my part in fostering the next generation of engineers, scientists, and difference makers. Motorsports make STEM tangible and relatable, while STEM makes motorsports even more thrilling and meaningful. Together, the practical applications of skills and experiences fuel personal growth, global progress, and infinite possibilities beyond the race track. I created <strong><em>Discrete Kinetics</em></strong> to inspire others to pursue challenges in STEM by creating a culture of problem-solvers who approach challenges with a sense of curiosity, creativity, and resilience.
+The world desperately needs passionate, curious people who are excited to innovate and create change. By connecting the energy, excitement, and innovation in motorsports with STEM, I hope to do my part in fostering the next generation of engineers, scientists, and difference makers. Motorsports make STEM tangible and relatable, while STEM makes motorsports even more thrilling and meaningful. Together, the practical applications of skills and experiences fuel personal growth and progress, and infinite possibilities beyond the race track. I created <strong><em>Discrete Kinetics</em></strong> to inspire others to pursue challenges in STEM by creating a culture of problem-solvers who approach challenges with a sense of curiosity, creativity, and resilience.
 
 
 
