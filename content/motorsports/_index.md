@@ -72,8 +72,8 @@ The world desperately needs passionate, curious people who are excited to innova
 
 If you'd like to explore more on motorsports, check out the other sections of my website:
 
-- [Motorsports Development Projects](/motorsports/dev/")
-- [Racing](content/motorsports/racing/")
+- [Motorsports Development Projects](/motorsports/dev/)
+- [Racing](/motorsports/racing/)
 
 ---
 
