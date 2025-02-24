@@ -1,6 +1,7 @@
 ---
-title: "Racing Events"
+title: "Racing"
 layout: "page"
+weight: 10
 ---
 
 
