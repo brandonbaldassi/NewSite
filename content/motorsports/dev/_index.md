@@ -1,11 +1,12 @@
 ---
-title: "Racing"
+title: "Motorsports Development"
 layout: "page"
 weight: 10
 ---
 
+<em> Coming soon</em>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 20px;">
+<!-- <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 20px;">
   <iframe src="https://www.youtube.com/embed/69fVLI4cqik?si=JaLGVO2t9U3-sbpC"
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;"
           allowfullscreen="" title="YouTube Video"></iframe>
@@ -48,7 +49,7 @@ Whether you’re a fellow racer, an enthusiast, or just curious about the world 
     </a>
 </div>
 
- <a href="/contact"><strong><em>Contact me here</em></strong></a>
+ <a href="/contact"><em>contact me here</em></a>
 
 ---
 
@@ -59,7 +60,7 @@ If you'd like to explore more on motorsports, check out the other sections of my
 - [Motorsports](/motorsports/")
 - [Development](content/motorsports/dev/")
 
----
+--- -->
 
 
 
