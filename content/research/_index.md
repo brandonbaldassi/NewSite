@@ -10,6 +10,6 @@ summary: "Welcome to the research section. Here you'll find a list of my latest 
     Please see the publications below or <a href="/contact">contact me here</a>.
   </div>
   <div>
-    <img src="/images/research.jpg" alt="Research Image" style="max-width: 350px; height: auto;">
+    <img src="/images/research.png" alt="Research Image" style="max-width: 350px; height: auto;">
   </div>
 </div>
