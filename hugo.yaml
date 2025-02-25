@@ -45,6 +45,7 @@ params:
   ShowAllPagesInArchive: true
   ShowPageNums: true
   ShowToc: false
+  noindex: false
   images: ["/images/"]
   defaults:
     content: markdown   
