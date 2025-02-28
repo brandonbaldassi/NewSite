@@ -129,7 +129,7 @@ markup:
         unsafe: true
 
 # Add these debug settings temporarily
-enableMissingTranslationPlaceholders: true
-debug: true
+enableMissingTranslationPlaceholders: false
+debug: false
 
 
