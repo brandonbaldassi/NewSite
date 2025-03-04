@@ -553,3 +553,30 @@ fieldset {
 .intro-text {
   text-align: center;
 }
+
+.text-content {
+  text-align: justify;
+}
+
+/* This will adjust the layout for smaller screens (e.g., mobile devices) */
+@media (max-width: 768px) {
+  .research-container {
+      flex-direction: column; /* Stack the image below the text on mobile */
+      align-items: center; /* Center the content horizontally on mobile */
+  }
+
+  .image-content {
+      margin-top: 20px; /* Optional: Add margin between the text and image on mobile */
+  }
+}
+
+.wrap {
+  float: right; 
+  margin: 5px;
+  max-width: 48%;
+ }
+
+ .image-content img {
+  margin-left: 10px;  /* Adds space on the left side of the image */
+  margin-right: 10px; /* Adds space on the right side of the image */
+}
