@@ -52,7 +52,10 @@ params:
   menu:
     showChild: true
     collapseDepth: 2
-
+  showDate: false
+  showReadingTime: false
+  showAuthor: false
+  hideMeta: true
   profileMode:
     enabled: False
     title: Hi, I'm Brandon.
