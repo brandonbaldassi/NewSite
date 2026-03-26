@@ -4,7 +4,7 @@ development:
   baseURL: 'http://localhost:1313/'
 
 languageCode: en-us
-title: brandon baldassi  
+title: welcome  
 theme: ["PaperMod"]
 copyright: Copyright © Brandon Baldassi
 enableInlineShortcodes: true
