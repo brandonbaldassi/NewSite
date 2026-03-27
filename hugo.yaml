@@ -33,7 +33,7 @@ params:
   author: "Brandon Baldassi"
   customCSS: 
     - "/assets/css/extended/custom.css"
-  defaultTheme: auto
+  defaultTheme: dark
   ShowShareButtons: false
   ShareButtons: "linkedin"
   ShowReadingTime: true
