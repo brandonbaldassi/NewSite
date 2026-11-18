@@ -16,6 +16,6 @@ summary: "Welcome to the research section. Here you'll find a list of my latest 
         I am particularly proud of my role in the development and commercialization of the <a href="https://www.radialis.com" target="_blank">Radialis PET Imager</a>, a breakthrough organ-targeted PET device that delivers <em><b>best-in-class performance</b></em> and is used for the detection and management of diseases ranging from <em><b>breast cancer</b></em> to <em><b>Alzheimer's</b></em>.</p> 
         <p>
         Beyond this, I have extensive experience in regulatory compliance (FDA, Health Canada) and in building and maintaining medical device quality management systems (ISO 13485:2016, MDSAP), ensuring that innovation exceeds the highest standards of safety and effectiveness.
-        If you're interested in learning more about my work, please explore some of my publications below, <a href="https://www.researchgate.net/scientific-contributions/Brandon-Baldassi-2225578782" target="_blank">on this index</a>, <a href="/contact"> or by reaching out to me directly</a>.</p>
+        If you're interested in learning more about my work, please explore some of my publications below, <a href="https://www.researchgate.net/scientific-contributions/Brandon-Baldassi-2225578782" target="_blank">on this index</a>, or by reaching out to me directly at <a href="mailto:mail@brandonbaldassi.com">mail@brandonbaldassi.com</a>. I welcome research collaboration and questions about the work.</p>
   </div>  
 </div>

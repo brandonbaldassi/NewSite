@@ -33,6 +33,8 @@ My athletic background is rooted in Olympic weightlifting, hockey, and martial a
 
 </div>
 
+For coaching through Barwork, or questions about training, email me at [mail@brandonbaldassi.com](mailto:mail@brandonbaldassi.com).
+
 <!--
 <div style="margin-top: 0px; font-size: 2em;">
     <a href=/athletics>

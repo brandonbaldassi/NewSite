@@ -40,7 +40,7 @@ I document the entire process through genuine, exciting, and educational videos.
 <h3 style="margin: 0;">How can we work together?</h3>
 </div>
 
-***[Please contact me](/contact/)*** about product testing, technical collaboration, or sponsorship opportunities that align with my science-first approach to motorsports.
+***[Please contact me](mailto:mail@brandonbaldassi.com)*** at mail@brandonbaldassi.com about product testing, technical collaboration, or sponsorship opportunities that align with my science-first approach to motorsports.
 
  
 

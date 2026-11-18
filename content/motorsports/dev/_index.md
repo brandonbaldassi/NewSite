@@ -4,7 +4,23 @@ layout: "page"
 weight: 10
 ---
 
-<em> Coming soon</em>
+I design, prototype and test parts and control strategies for my own cars, with the same instrumentation and methods I use in medical imaging.
+
+## No-lift shifter
+
+**Status: Prototyping**
+
+A force-sensing shift-cut handle for H-pattern dog-box transmissions. A strain gauge in the shifter handle detects when I load the lever and triggers a shift cut through the Haltech ECU, so the car can be shifted without lifting off the throttle. The prototype is being bench-tested against a calibrated force gauge before it goes in the car.
+
+## Driveshaft speed control
+
+**Status: In development**
+
+Traction control for stick-shift drag cars on the Haltech Nexus, comparing driveshaft speed against the undriven front wheels to manage wheel slip, with a custom trigger collar for the Ford 9" rear end.
+
+---
+
+Interested in testing or collaborating on parts like these? Email me at [mail@brandonbaldassi.com](mailto:mail@brandonbaldassi.com).
 
 <!-- <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 20px;">
   <iframe src="https://www.youtube.com/embed/69fVLI4cqik?si=JaLGVO2t9U3-sbpC"
