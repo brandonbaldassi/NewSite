@@ -5,7 +5,7 @@ title: 'Breast Cancer Detection Using a Low-Dose Positron Emission Digital Mammo
 weight: 4
 ---
 
-*The following article outlines a subset of my academic reasearch and was published in Radiology: Imaging Cancer in February of 2024.*
+*The following article outlines a subset of my academic research and was published in Radiology: Imaging Cancer in February of 2024.*
 
 [Click here for the full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC10988332/)
 

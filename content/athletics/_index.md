@@ -3,7 +3,7 @@ title: "Athletics"
 layout: "list"
 ---
 
-My passion for health and performance is centred around helping people solve their athletic problems and become more capable and resilient through training. Born out of a pursuit to resolve injuries and level-up my own performance, I've formed a lifelong habit out of learning, training, and sharing knowledge with those who might benefit. My coaching is centered around education: optimizing athletic performance, injury prevention and recovery, and training towards health and resilience.I am a certified Olympic Weightlifting coach, functional and barefoot training specialist. 
+My passion for health and performance is centred around helping people solve their athletic problems and become more capable and resilient through training. Born out of a pursuit to resolve injuries and level-up my own performance, I've formed a lifelong habit out of learning, training, and sharing knowledge with those who might benefit. My coaching is centered around education: optimizing athletic performance, injury prevention and recovery, and training towards health and resilience. I am a certified Olympic Weightlifting coach, functional and barefoot training specialist. 
 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 20px;">
