@@ -19,12 +19,6 @@ Racing is where ideas meet reality. It’s the ultimate test of engineering, str
 
 Stay tuned for my next race! I’ll be sharing event details, schedules, and where you can follow along.
 
-# 2025 schedule 
-
-June 13, 14, 15 - **Test and Tune**, <em>Terrace Bay, ON, Canada</em>
-
-August 1, 2, 3 - **Dragfest**, <em>Terrace Bay, ON, Canada</em>
-
 # Results & Recap
 
 

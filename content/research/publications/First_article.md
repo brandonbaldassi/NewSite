@@ -4,7 +4,7 @@ draft: False
 title: 'Image quality evaluation for a clinical organ-targeted PET camera'
 weight: 2
 ---
-*The following article outlines a subset of my academic reasearch and was published in Frontiers in Oncology in March of 2024.*
+*The following article outlines a subset of my academic research and was published in Frontiers in Oncology in March of 2024.*
 
 [Click here for the full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC10999605/)
 

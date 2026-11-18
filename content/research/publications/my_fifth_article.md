@@ -5,7 +5,7 @@ title: 'Multi-angle acquisition and 3D composite reconstruction for organ-target
 weight: 4
 ---
 
-*The following case report outlines a subset of my academic reasearch and was published in Medical Physics in December of 2024.*
+*The following case report outlines a subset of my academic research and was published in Medical Physics in December of 2024.*
 
 [Click here for the full text](https://doi.org/10.1002/mp.17606)
 

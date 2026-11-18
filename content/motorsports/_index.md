@@ -22,7 +22,7 @@ Whether you're a fellow enthusiast, an aspiring builder, or a brand looking for 
 ![image](/images/physical008.png)
 
 ### Current Projects
-- ***Physical Graffitti*** - [1970 Chevy Nova – Twin Turbo LS7 Stick-Shift Street Car](https://youtu.be/A46h7Ks5IqY)  
+- ***Physical Graffiti*** - [1970 Chevy Nova – Twin Turbo LS7 Stick-Shift Street Car](https://youtu.be/A46h7Ks5IqY)  
 - ***CRUSH*** - [1969 Chevy Nova - Nitrous Small Block 25.2 Race Car](https://youtu.be/311_VU5GYP0)  
 - *Coming soon* - Volvo Wagon - Twin Turbo LT Swap Touring Car
 
@@ -40,7 +40,7 @@ I document the entire process through genuine, exciting, and educational videos.
 <h3 style="margin: 0;">How can we work together?</h3>
 </div>
 
-***[Please contact me](/contact/)*** about product testing, technical collaboration, or sponsorship opportunities that align with my science-first approach to motorsports.
+***[Please contact me](mailto:mail@brandonbaldassi.com)*** at mail@brandonbaldassi.com about product testing, technical collaboration, or sponsorship opportunities that align with my science-first approach to motorsports.
 
  
 

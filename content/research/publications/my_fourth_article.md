@@ -5,7 +5,7 @@ weight: 5
 title: 'Case report: Possible role of low-dose PEM for avoiding unneeded procedures associated with false-positive or equivocal breast MRI results'
 ---
 
-*The following case report outlines a subset of my academic reasearch and was published in Frontiers in Oncology in July of 2024.*
+*The following case report outlines a subset of my academic research and was published in Frontiers in Oncology in July of 2024.*
 
 [Click here for the full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC11291220/)
 
